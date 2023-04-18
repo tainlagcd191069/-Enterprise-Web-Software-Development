@@ -52,26 +52,3 @@ TAGS
   font-size: 1.6rem;
 }
 
-@media (min-width: 768px) {
-  .container-sidebar {
-    display: flex;
-  }
-
-  .sidebar--left {
-    display: flex;
-    flex-direction: column;
-  }
-
-  ul.sidebar__list {
-    gap: 0.5rem;
-  }
-
-  .sidebar-tags-list {
-    gap: 0.7rem;
-    padding: 0.5rem;
-  }
-
-  .sidebar__list a {
-    gap: 1rem;
-  }
-}
