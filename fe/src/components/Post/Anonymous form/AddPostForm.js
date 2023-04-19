@@ -40,3 +40,4 @@ const AddPostForm = () => {
       <div>
         <label htmlFor="content">Content:</label>
         <textarea id="content" value={content
+  
